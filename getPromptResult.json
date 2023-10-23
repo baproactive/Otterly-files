@@ -1,0 +1,115 @@
+{
+    "promptUuid": "94477e78-11c0-4442-b436-b4d05a112423",
+    "runId": "f5c92e5a-79db-4929-8be7-cff6c78d125a",
+    "sampleSize": 100,
+    "runDate": "2023-10-23T10:08:38.246Z",
+    "yourBrand": "Monday.com",
+    "shareOfVoice" : "12.5%",
+    "allBrandMentions": 2231,
+    "yourBrandMentions": 281,
+    "uniqueBrandMentions": 76,
+    "yourCoverage": 281,
+    "promptCoverage": "93.67%",
+    "data": [
+        {
+            "sourceLLM": "openAI-gpt4",
+            "shareOfVoice": "12.5%",
+            "allBrandMentions": 800,
+            "yourBrandMentions": 181,
+            "uniqueBrandMentions": 56,
+            "yourCoverage": 281,
+            "promptCoverage": "93.67%",
+            "mentions": [
+                {
+                    "mentionString": "Monday.com",
+                    "mentionCount": "88"
+                },
+                {
+                    "mentionString": "Asana",
+                    "mentionCount": "84"
+                },
+                {
+                    "mentionString": "ClickUp",
+                    "mentionCount": "82"
+                },
+                {
+                    "mentionString": "Wrike",
+                    "mentionCount": "81"
+                },
+                {
+                    "mentionString": "Trello",
+                    "mentionCount": "78"
+                },
+                {
+                    "mentionString": "Basecamp",
+                    "mentionCount": "64"
+                },
+                {
+                    "mentionString": "Jira",
+                    "mentionCount": "30"
+                },
+                {
+                    "mentionString": "Teamwork",
+                    "mentionCount": "30"
+                },
+                {
+                    "mentionString": "Azure DevOps",
+                    "mentionCount": "25"
+                },
+                {
+                    "mentionString": "Meistertask",
+                    "mentionCount": "19"
+                }
+            ]
+        },
+        {
+            "sourceLLM": "PaLM2-bison",
+            "shareOfVoice": "12.5%",
+            "allBrandMentions": 800,
+            "yourBrandMentions": 181,
+            "uniqueBrandMentions": 56,
+            "yourCoverage": 281,
+            "promptCoverage": "93.67%",
+            "mentions": [
+                {
+                    "mentionString": "Monday.com",
+                    "mentionCount": "90"
+                },
+                {
+                    "mentionString": "Asana",
+                    "mentionCount": "78"
+                },
+                {
+                    "mentionString": "ClickUp",
+                    "mentionCount": "83"
+                },
+                {
+                    "mentionString": "Wrike",
+                    "mentionCount": "91"
+                },
+                {
+                    "mentionString": "Basecamp",
+                    "mentionCount": "61"
+                },
+                {
+                    "mentionString": "Teamwork",
+                    "mentionCount": "38"
+                },
+                {
+                    "mentionString": "Jira",
+                    "mentionCount": "45"
+                },
+                {
+                    "mentionString": "Azure DevOps",
+                    "mentionCount": "25"
+                },
+                {
+                    "mentionString": "Meistertask",
+                    "mentionCount": "19"
+                }
+            ]
+        }
+    ]
+}
+
+
